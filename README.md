@@ -9,8 +9,6 @@ python3 send-email.py /file/path
 ```
 
 ## Instructions
-Make sure to "Allow less secure apps" to be "ON" in the sender gmail account. 
+Make sure to "Allow less secure apps" to be "ON" in the sender gmail account. To configure go to, https://www.google.com/settings/security/lesssecureapps 
 
-To configure go to, https://www.google.com/settings/security/lesssecureapps 
-
-Change the configuration file values accordingly.
+Change the configuration file (config.ini) values accordingly when running the script.
